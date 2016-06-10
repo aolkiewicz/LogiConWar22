@@ -21,6 +21,7 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.2.6.RELEASE" />
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
           <element id="library" level="project" name="Gradle: aopalliance:aopalliance:1.0" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars/Semantic-UI/2.1.8/a1c2cde0d68196b9c2b2fedf7965e0853070a13b/Semantic-UI-2.1.8.jar" />
         </element>
       </element>
       <element id="directory" name="META-INF">
